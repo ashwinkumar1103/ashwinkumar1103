@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashwinkumar1103
+- 👋 Hi, I’m Ashwin Kumar Barla
 - 👀 I’m interested in learning new programming languages and HTML
 - 🌱 I’m currently learning C/C++ programing
 - 💞️ I’m looking to collaborate on ...
